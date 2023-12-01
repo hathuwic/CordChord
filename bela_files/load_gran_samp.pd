@@ -1,0 +1,17 @@
+#N canvas 98 98 564 327 12;
+#N canvas 0 50 450 250 (subpatch) 0;
+#X array C5 105341 float 2;
+#X coords 0 1 105341 -1 200 140 1 0 0;
+#X restore 19 142 graph;
+#X obj 19 58 soundfiler;
+#X obj 19 12 loadbang;
+#X obj 83 12 inlet force_reload_samples;
+#X obj 94 80 print C5_dur;
+#X obj 19 104 s C5_dur_samp;
+#X msg 19 35 read -resize cello_A3.wav C5;
+#X text 207 70 This subpatch loads the cello sample that is used in the granular synthesis engine., f 30;
+#X connect 1 0 4 0;
+#X connect 1 0 5 0;
+#X connect 2 0 6 0;
+#X connect 3 0 6 0;
+#X connect 6 0 1 0;
