@@ -10,9 +10,7 @@ The instrument is built using the [Bela platform](https://bela.io/).
 
 Read more about how it works here on the MCT blog [here](https://mct-master.github.io/interactive-music/2023/12/01/jackeh-cordchord.html).
 
-Watch a performance below:
-
-<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/ySrjSWU_Mf8?si=xgdRcHQOZv3tWTWr&amp;start=1053" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+Watch a performance on YouTube [here](https://youtu.be/ySrjSWU_Mf8?si=Gh7HjJKVy4U6tpU1&t=1053).
 
 ## In this Repo
 
