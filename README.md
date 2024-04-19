@@ -8,13 +8,11 @@ CordChord is an two-voice digital string instrument.
 
 Watch a video demo and performance below:
 
-[![CordChord video thumbnail](/assets/cordchord_video_thumbnail.jpg)](https://youtu.be/kdyKK7qH69U)
+[![CordChord video thumbnail](/assets/cordchord_video_thumnail.jpg)](https://youtu.be/kdyKK7qH69U)
 
 The instrument is built using the [Bela platform](https://bela.io/).
 
-Read more about how it works here on the MCT blog [here](https://mct-master.github.io/interactive-music/2023/12/01/jackeh-cordchord.html).
-
-Watch a performance on YouTube [here](https://youtu.be/ySrjSWU_Mf8?si=Gh7HjJKVy4U6tpU1&t=1053).
+Read more about how it works here [here](https://mct-master.github.io/interactive-music/2023/12/01/jackeh-cordchord.html).
 
 ## In this Repo
 
