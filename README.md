@@ -4,7 +4,7 @@
 
 ![CordChord thumbnail image](/assets/cordchord_thumbnail.png)
 
-CordChord is an two-voice digital string instrument built for MCT4054 - Interactive Music Systems as part of the [Masters in Music, Communication & Technology program](https://www.uio.no/english/studies/programmes/mct-master/) at the University of Oslo.
+CordChord is an two-voice digital string instrument.
 
 The instrument is built using the [Bela platform](https://bela.io/).
 
